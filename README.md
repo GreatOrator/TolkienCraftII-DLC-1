@@ -1,2 +1,2 @@
 # TolkienCraftII-DLC
-All of the extended content for the TolkienCraft II modpack
+This includes the regions of Argonath, Beorn's Hall, Bree, Edoras, Erebor, Helm's Deep and Isengard

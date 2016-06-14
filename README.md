@@ -1,2 +1,2 @@
 # TolkienCraftII-DLC
-This includes the regions of Argonath, Beorn's Hall, Bree, Edoras, Erebor, Helm's Deep and Isengard
+This includes the regions of Angmar, Argonath, Beorn's Hall, Blue Mountains, Bree, Edoras, Erebor, Forochel, Forsaken Inn and Goblin Cave
